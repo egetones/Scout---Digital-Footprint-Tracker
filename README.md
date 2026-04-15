@@ -37,3 +37,4 @@ python scout.py
 # Legal Disclaimer
 
 For Educational Purposes Only. This tool is intended to help security researchers and red teamers understand digital footprints and reconnaissance techniques. The developer is not responsible for any misuse of this tool or any illegal activities performed with it. Always obtain proper authorization before investigating targets.
+Çrş 15 Nis 2026 22:16:23 +03
